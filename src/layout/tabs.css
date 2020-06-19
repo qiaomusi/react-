@@ -1,0 +1,13 @@
+.tabbarLeftBox {
+    display: flex;
+}
+
+.tabbarLeftBox ul{
+    display: flex;
+}
+
+.tabbarLeftBox ul li {
+    padding:0 18px;
+    color: #71777c;
+    line-height:60px;
+}
